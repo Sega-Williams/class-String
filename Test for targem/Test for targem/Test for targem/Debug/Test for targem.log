@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\SeGa9\source\repos\Test for targem\Test for targem\main.cpp(218,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\SeGa9\source\repos\Test for targem\Test for targem\main.cpp(266,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\SeGa9\source\repos\Test for targem\Test for targem\main.cpp(317,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\SeGa9\source\repos\Test for targem\Test for targem\main.cpp(326,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\SeGa9\source\repos\Test for targem\Test for targem\main.cpp(331,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\SeGa9\source\repos\Test for targem\Test for targem\main.cpp(398,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\SeGa9\source\repos\Test for targem\Test for targem\main.cpp(407,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\SeGa9\source\repos\Test for targem\Test for targem\main.cpp(424,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\SeGa9\source\repos\Test for targem\Test for targem\main.cpp(454,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Test for targem.vcxproj -> C:\Users\SeGa9\source\repos\Test for targem\Debug\Test for targem.exe
